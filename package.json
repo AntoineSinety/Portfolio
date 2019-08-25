@@ -18,5 +18,5 @@
     "predploy": "npm run build",
     "deploy": "gh-pages -d build"
   },
-  "homepage": "https://antoinesinety.github.io/Portfolio/"
+  "homepage": "https://antoinesinety.github.io/Portfolio"
 }
