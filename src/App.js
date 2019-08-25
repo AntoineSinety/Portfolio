@@ -19,7 +19,7 @@ class App extends Component {
       resumeData: {}
     };
 
-    ReactGA.initialize('UA-110570651-1');
+    ReactGA.initialize('UA-146461708-1');
     ReactGA.pageview(window.location.pathname);
 
   }
@@ -47,7 +47,7 @@ class App extends Component {
     return (
       <div className="App">
         <Header data={this.state.resumeData.main}/>
-        <About data={this.state.resumeData.main}/>
+        {/* <About data={this.state.resumeData.main}/> */}
         <Resume data={this.state.resumeData.resume}/>
         <Portfolio data={this.state.resumeData.portfolio}/>
         {/* <Testimonials data={this.state.resumeData.testimonials}/> */}
