@@ -1,10 +1,10 @@
 {
   "main": {
-    "name":"Tim Baker",
+    "name":"Antoine de Sinety",
     "occupation":"(Your Occupation Here)",
-    "description":"Here will be your description. Use this to describe what you do or whatever you feel best describes yourself to a potential employer",
+    "description":"Developpeur web à la recherche d'un emploi,  je suis apte à vous conseiller et à réaliser vos outils de communication web (applications, sites internet adaptatifs).  ",
     "image":"profilepic.jpg",
-    "bio":"Use this bio section as your way of describing yourself and saying what you do, what technologies you like to use or feel most comfortable with, describing your personality, or whatever else you feel like throwing in.",
+    "bio": "",
     "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
     "email": "youremailhere@gmail.com",
     "phone": "555-555-5555",
@@ -18,99 +18,101 @@
     "resumedownload":"http://timbakerdev.com",
     "social":[
       {
-        "name":"facebook",
-        "url":"http://facebook.com/tim.baker.906",
-        "className":"fa fa-facebook"
-      },
-      {
-        "name":"twitter",
-        "url":"http://twitter.com",
-        "className":"fa fa-twitter"
-      },
-      {
-        "name":"google-plus",
-        "url":"http://googleplus.com/tbakerx",
-        "className":"fa fa-google-plus"
-      },
-      {
         "name":"linkedin",
-        "url":"https://www.linkedin.com/in/tim-baker-8420009a/",
+        "url":"https://www.linkedin.com/in/antoine-de-sinety-7b0b87120/",
         "className":"fa fa-linkedin"
       },
       {
-        "name":"instagram",
-        "url":"http://instagram.com/tbaker_x",
-        "className":"fa fa-instagram"
-      },
-      {
         "name":"github",
-        "url":"http://github.com/tbakerx",
+        "url":"https://github.com/AntoineSinety",
         "className":"fa fa-github"
       },
       {
-        "name":"skype",
-        "url":"http://skype.com",
-        "className":"fa fa-skype"
+        "name":"mail",
+        "url":"mailto:antoine.desinety@gmail.com",
+        "className":"fa fa-envelope"
       }
     ]
   },
   "resume":{
-    "skillmessage":"Here you can create a short write-up of your skills to show off to employers",
+    "skillmessage":"Technologies et langages utilisés lors de mon parcours.",
     "education":[
       {
-        "school":"University?",
-        "degree":"Masters in Beer tasting",
-        "graduated":"April 2007",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"ECV Digital",
+        "degree":"Master en développement web",
+        "graduated":"2017-2019",
+        "description":"Master réalisé en alternance, j'ai pu consolider mes connaissances en framework JS (React, Vue JS), Node JS, PHP, Laravel etc..."
       },
       {
-        "school":"School #1 Maybe College?",
-        "degree":"What did you study 101",
-        "graduated":"March 2003",
-        "description":"Describe your experience at school, what you learned, what useful skills you have acquired etc."
+        "school":"Digital Campus",
+        "degree": "Classe passerelle conduite de projet web",
+        "graduated": "2016-2017",
+        "description":"Remise à niveau sur tout le secteur du digital autant en design, vidéo, chef de projet que en développement."
+      },
+      {
+        "school":"BTS Notre-Dame La Riche",
+        "degree": "BTS SIO option SLAM",
+        "graduated": "2014-2016",
+        "description":"Formation pour apprendre à développer, à adapter et à maintenir des solutions applicatives."
       }
     ],
     "work":[
       {
-        "company":"Awesome Design Studio",
-        "title":"Senior UX God ",
-        "years":"March 2010 - Present",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Mediacrossing",
+        "title":"Alternance",
+        "years": "2017-2019",
+        "description":"Alternance dans le cadre de mon master où j'ai pu apprendre à utiliser les CMS tel que Wordpress et Drupal. Création de thèmes sur mesure en fonction des besoins clients ainsi qu'adapter le back-office aux besoins."
       },
       {
-        "company":"Super Cool Studio",
-        "title":"Junior bug fixer",
-        "years":"March 2007 - February 2010",
-        "description":"Describe work, special projects, notable achievements, what technologies you have been working with, and anything else that would be useful for an employer to know."
+        "company":"Mediacrossing",
+        "title":"Stage",
+        "years":"Avril 2017 - Août 2017",
+        "description":"Création de thème Wordpress sur mesure & maintenance des différents sites des clients."
+      },
+      {
+        "company":"MC2G Soft & JOUANEL",
+        "title":"Stage de BTS 1ère et 2ème année",
+        "years":"2015 & 2016",
+        "description":"Entreprises d'édition de logiciel de gestion commerciale.Modification de la charte graphique et amélioration du logiciel de gestion commerciale."
       }
     ],
     "skills":[
       {
-        "name":"Git",
-        "level":"60%"
+        "name":"HTML & CSS",
+        "level":"95%"
       },
       {
-        "name":"Illustrator",
-        "level":"55%"
+        "name":"Less & Sass",
+        "level":"85%"
       },
       {
-        "name":"ReactJs",
-        "level":"50%"
-      },
-      {
-        "name":"CSS",
+        "name":"Wordpress",
         "level":"90%"
       },
       {
-        "name":"HTML5",
-        "level":"80%"
-      },
-      {
-        "name":"VueJs",
+        "name":"React JS",
         "level":"50%"
       },
       {
-        "name":"MongoDB",
+        "name":"React Native",
+        "level":"65%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
+      {
+        "name":"jQuery",
+        "level":"90%"
+      },      {
+        "name":"Git",
+        "level":"83%"
+      },      {
+        "name":"SQL",
         "level":"80%"
       }
     ]
@@ -118,34 +120,34 @@
   "portfolio":{
     "projects": [
       {
-        "title":"Canadian Wanderlust",
-        "category":"My Travel Blog for my post-university travels",
-        "image":"canadian-wanderlust.jpg",
-        "url":"https://www.canadianwanderlust.com"
+        "title":"Cormeil & Figeac",
+        "category":"",
+        "image":"cormeil.jpg",
+        "url":"https://www.cormeil-figeac.com"
       },
       {
-        "title":"Fury Fighting Gear",
-        "category":"(offline now) A fighting gear company I started",
-        "image":"fury-fighting-gear.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Cuisine & Audace",
+        "category":"",
+        "image":"cuisine_audace.jpg",
+        "url":"https://www.cuisine-et-audace.com/"
       },
       {
-        "title":"Original Thai Food",
-        "category":"Website I built for a restaurant I like in Thailand",
-        "image":"original-thai-food.jpg",
-        "url":"http://www.timbakerdev.com/originalthaifood.github.io"
+        "title":"Fess'nett",
+        "category":" ",
+        "image":"fessnett.jpg",
+        "url":"https://www.fessnett.fr/"
       },
       {
-        "title":"Resume Website",
-        "category":"A React based resume website template",
-        "image":"resume-website.jpg",
-        "url":"http://www.timbakerdev.com"
+        "title":"Domaine François Lurton",
+        "category":"",
+        "image":"lurton.jpg",
+        "url":"https://www.domainesfrancoislurton.com"
       },
       {
-        "title":"Smirkspace",
-        "category":"(MVP Only) A React and Meteor based chat University project.",
-        "image":"smirkspace.jpg",
-        "url":"http://www.smirkspace.com"
+        "title":"Mairie de Soulac",
+        "category":"",
+        "image":"soulac.jpg",
+        "url":"https://www.mairie-soulac.fr/"
       }
     ]
   },
