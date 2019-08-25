@@ -1,0 +1,166 @@
+{
+  "main": {
+    "name":"Antoine de Sinety",
+    "occupation":"(Your Occupation Here)",
+    "description":"Developpeur web à la recherche d'un emploi,  je suis apte à vous conseiller et à réaliser vos outils de communication web (applications, sites internet adaptatifs).  ",
+    "image":"profilepic.jpg",
+    "bio": "",
+    "contactmessage":"Here is where you should write your message to readers to have them get in contact with you.",
+    "email": "youremailhere@gmail.com",
+    "phone": "555-555-5555",
+    "address":{
+      "street":"(Your Street)",
+      "city":"(Your City)",
+      "state":"(Your State)",
+      "zip": "(Your Zip/Postal Code)"
+    },
+    "website": "http://www.timbakerdev.com",
+    "resumedownload":"http://timbakerdev.com",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/antoine-de-sinety-7b0b87120/",
+        "className":"fa fa-linkedin"
+      },
+      {
+        "name":"github",
+        "url":"https://github.com/AntoineSinety",
+        "className":"fa fa-github"
+      },
+      {
+        "name":"mail",
+        "url":"mailto:antoine.desinety@gmail.com",
+        "className":"fa fa-envelope"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"Technologies et langages utilisés lors de mon parcours.",
+    "education":[
+      {
+        "school":"ECV Digital",
+        "degree":"Master en développement web",
+        "graduated":"2017-2019",
+        "description":"Master réalisé en alternance, j'ai pu consolider mes connaissances en framework JS (React, Vue JS), Node JS, PHP, Laravel etc..."
+      },
+      {
+        "school":"Digital Campus",
+        "degree": "Classe passerelle conduite de projet web",
+        "graduated": "2016-2017",
+        "description":"Remise à niveau sur tout le secteur du digital autant en design, vidéo, chef de projet que en développement."
+      },
+      {
+        "school":"BTS Notre-Dame La Riche",
+        "degree": "BTS SIO option SLAM",
+        "graduated": "2014-2016",
+        "description":"Formation pour apprendre à développer, à adapter et à maintenir des solutions applicatives."
+      }
+    ],
+    "work":[
+      {
+        "company":"Mediacrossing",
+        "title":"Alternance",
+        "years": "2017-2019",
+        "description":"Alternance dans le cadre de mon master où j'ai pu apprendre à utiliser les CMS tel que Wordpress et Drupal. Création de thèmes sur mesure en fonction des besoins clients ainsi qu'adapter le back-office aux besoins."
+      },
+      {
+        "company":"Mediacrossing",
+        "title":"Stage",
+        "years":"Avril 2017 - Août 2017",
+        "description":"Création de thème Wordpress sur mesure & maintenance des différents sites des clients."
+      },
+      {
+        "company":"MC2G Soft & JOUANEL",
+        "title":"Stage de BTS 1ère et 2ème année",
+        "years":"2015 & 2016",
+        "description":"Entreprises d'édition de logiciel de gestion commerciale.Modification de la charte graphique et amélioration du logiciel de gestion commerciale."
+      }
+    ],
+    "skills":[
+      {
+        "name":"HTML & CSS",
+        "level":"95%"
+      },
+      {
+        "name":"Less & Sass",
+        "level":"85%"
+      },
+      {
+        "name":"Wordpress",
+        "level":"90%"
+      },
+      {
+        "name":"React JS",
+        "level":"50%"
+      },
+      {
+        "name":"React Native",
+        "level":"65%"
+      },
+      {
+        "name":"Javascript",
+        "level":"70%"
+      },
+      {
+        "name":"PHP",
+        "level":"70%"
+      },
+      {
+        "name":"jQuery",
+        "level":"90%"
+      },      {
+        "name":"Git",
+        "level":"83%"
+      },      {
+        "name":"SQL",
+        "level":"80%"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Cormeil & Figeac",
+        "category":"",
+        "image":"cormeil.jpg",
+        "url":"https://www.cormeil-figeac.com"
+      },
+      {
+        "title":"Cuisine & Audace",
+        "category":"",
+        "image":"cuisine_audace.jpg",
+        "url":"https://www.cuisine-et-audace.com/"
+      },
+      {
+        "title":"Fess'nett",
+        "category":" ",
+        "image":"fessnett.jpg",
+        "url":"https://www.fessnett.fr/"
+      },
+      {
+        "title":"Domaine François Lurton",
+        "category":"",
+        "image":"lurton.jpg",
+        "url":"https://www.domainesfrancoislurton.com"
+      },
+      {
+        "title":"Mairie de Soulac",
+        "category":"",
+        "image":"soulac.jpg",
+        "url":"https://www.mairie-soulac.fr/"
+      }
+    ]
+  },
+  "testimonials":{
+    "testimonials":[
+      {
+        "text":"Here you should write some nice things that someone has said about you. No lies though, employers can tell when you are lying.",
+        "user":"Kareem Abdul Jabbar"
+      },
+      {
+        "text":"That Tim Baker must be one of the most brilliant developers I've ever met! It is amazing that nobody has hired him yet. Hey you, you should hire this guy, he may be fresh out of University and have zero on the job experience but I am confident that he will be one of your best developers in no time!",
+        "user":"Steve Wozniak... impersonator"
+      }
+    ]
+  }
+}
